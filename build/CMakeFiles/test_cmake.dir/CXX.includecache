@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wxrui/test_cmake/main.cpp
+test1/fun1.h
+/home/wxrui/test_cmake/test1/fun1.h
+test2/fun2.h
+/home/wxrui/test_cmake/test2/fun2.h
+
+/home/wxrui/test_cmake/test1/fun1.h
+iostream
+-
+
+/home/wxrui/test_cmake/test2/fun2.h
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libtest2.so -o libtest2.so CMakeFiles/test2.dir/fun2.cpp.o 

@@ -1,0 +1,9 @@
+/home/wxrui/test_cmake/build/CMakeFiles/edit_cache.dir
+/home/wxrui/test_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/wxrui/test_cmake/build/CMakeFiles/test_cmake.dir
+/home/wxrui/test_cmake/build/test1/CMakeFiles/rebuild_cache.dir
+/home/wxrui/test_cmake/build/test1/CMakeFiles/edit_cache.dir
+/home/wxrui/test_cmake/build/test1/CMakeFiles/test1.dir
+/home/wxrui/test_cmake/build/test2/CMakeFiles/edit_cache.dir
+/home/wxrui/test_cmake/build/test2/CMakeFiles/rebuild_cache.dir
+/home/wxrui/test_cmake/build/test2/CMakeFiles/test2.dir

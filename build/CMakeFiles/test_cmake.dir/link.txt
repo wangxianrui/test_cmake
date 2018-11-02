@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_cmake.dir/main.cpp.o  -o test_cmake test1/libtest1.so test2/libtest2.so -Wl,-rpath,/home/wxrui/test_cmake/build/test1:/home/wxrui/test_cmake/build/test2 
